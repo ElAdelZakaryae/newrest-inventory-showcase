@@ -2,7 +2,7 @@
 
 <p align="center">
   Explore the main features of the Newrest Inventory mobile application
-  in light and dark themes.
+  in both light and dark themes.
 </p>
 
 <!-- LOGIN -->
@@ -12,7 +12,11 @@
   <br>
 
   <p align="center">
-    <img src="screenshots/mobile/Login page_ Light Theme.jpeg" width="32%" alt="Login page light theme">
+    <img
+      src="screenshots/mobile/Login page_ Light Theme.jpeg"
+      width="32%"
+      alt="Login page — light theme"
+    >
   </p>
 </details>
 
@@ -25,15 +29,31 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Dashboard page 1_ Dark Theme.jpeg" width="32%" alt="Dashboard page 1 dark theme">
-    <img src="screenshots/mobile/Dashboard page 2_ Dark Theme.jpeg" width="32%" alt="Dashboard page 2 dark theme">
+    <img
+      src="screenshots/mobile/Dashboard page 1 _ Dark Theme.jpeg"
+      width="32%"
+      alt="Dashboard page 1 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/Dashboard page 2 _ Dark Theme.jpeg"
+      width="32%"
+      alt="Dashboard page 2 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Dashboard page 1_ Light Theme.jpeg" width="32%" alt="Dashboard page 1 light theme">
-    <img src="screenshots/mobile/Dashboard page 2_ Light Theme.jpeg" width="32%" alt="Dashboard page 2 light theme">
+    <img
+      src="screenshots/mobile/Dashboard page 1 _ Light Theme.jpeg"
+      width="32%"
+      alt="Dashboard page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/Dashboard page 2 _ Light Theme.jpeg"
+      width="32%"
+      alt="Dashboard page 2 — light theme"
+    >
   </p>
 </details>
 
@@ -46,14 +66,26 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Create Inventory page _ Dark Theme.jpeg" width="32%" alt="Create inventory dark theme">
+    <img
+      src="screenshots/mobile/Create Inventory page _ Dark Theme.jpeg"
+      width="32%"
+      alt="Create inventory — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Create Inventory page 1_ Light Theme.jpeg" width="32%" alt="Create inventory page 1 light theme">
-    <img src="screenshots/mobile/Create Inventory page 2_ Light Theme.jpeg" width="32%" alt="Create inventory page 2 light theme">
+    <img
+      src="screenshots/mobile/Create Inventory page  1 _ Light Theme.jpeg"
+      width="32%"
+      alt="Create inventory page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/Create Inventory page  2 _ Light Theme.jpeg"
+      width="32%"
+      alt="Create inventory page 2 — light theme"
+    >
   </p>
 </details>
 
@@ -66,16 +98,36 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/All Inventories page 1_ Dark Theme.jpeg" width="32%" alt="All inventories page 1 dark theme">
-    <img src="screenshots/mobile/All Inventories page 2_ Dark Theme.jpeg" width="32%" alt="All inventories page 2 dark theme">
+    <img
+      src="screenshots/mobile/All Inventories page 1 _ Dark Theme.jpeg"
+      width="32%"
+      alt="All inventories page 1 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/All Inventories page 2_ Dark Theme.jpeg"
+      width="32%"
+      alt="All inventories page 2 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/All Inventories page 1_ Light Theme.jpeg" width="32%" alt="All inventories page 1 light theme">
-    <img src="screenshots/mobile/All Inventories page 2_ Light Theme.jpeg" width="32%" alt="All inventories page 2 light theme">
-    <img src="screenshots/mobile/All Inventories page 3_ Light Theme.jpeg" width="32%" alt="All inventories page 3 light theme">
+    <img
+      src="screenshots/mobile/All Inventories page 1 _LIght Theme.jpeg"
+      width="32%"
+      alt="All inventories page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/All Inventories page 2 _LIght Theme.jpeg"
+      width="32%"
+      alt="All inventories page 2 — light theme"
+    >
+    <img
+      src="screenshots/mobile/All Inventories page 3 _LIght Theme.jpeg"
+      width="32%"
+      alt="All inventories page 3 — light theme"
+    >
   </p>
 </details>
 
@@ -88,17 +140,41 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Alert page _ Dark Theme.jpeg" width="32%" alt="Alert page dark theme">
-    <img src="screenshots/mobile/Alert page 2_ Dark Theme.jpeg" width="32%" alt="Alert page 2 dark theme">
-    <img src="screenshots/mobile/Alert page 3_ Dark Theme.jpeg" width="32%" alt="Alert page 3 dark theme">
+    <img
+      src="screenshots/mobile/Alert page _ Dark Theme.jpeg"
+      width="32%"
+      alt="Alert page 1 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/Alert page 2 _ Dark Theme.jpeg"
+      width="32%"
+      alt="Alert page 2 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/Alert page 3 _ Dark Theme.jpeg"
+      width="32%"
+      alt="Alert page 3 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Alert page _ Light Theme.jpeg" width="32%" alt="Alert page light theme">
-    <img src="screenshots/mobile/Alert page 2_ Light Theme.jpeg" width="32%" alt="Alert page 2 light theme">
-    <img src="screenshots/mobile/Alert page 3_ Light Theme.jpeg" width="32%" alt="Alert page 3 light theme">
+    <img
+      src="screenshots/mobile/Alert page  _ Light Theme.jpeg"
+      width="32%"
+      alt="Alert page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/Alert page 2 _ Light Theme.jpeg"
+      width="32%"
+      alt="Alert page 2 — light theme"
+    >
+    <img
+      src="screenshots/mobile/Alert page 3 _ Light Theme.jpeg"
+      width="32%"
+      alt="Alert page 3 — light theme"
+    >
   </p>
 </details>
 
@@ -111,16 +187,36 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Product List page 1_ Dark Theme.jpeg" width="32%" alt="Product list page 1 dark theme">
-    <img src="screenshots/mobile/ProductList page 2_ Dark Theme.jpeg" width="32%" alt="Product list page 2 dark theme">
+    <img
+      src="screenshots/mobile/Product List page 1_ Dark Theme.jpeg"
+      width="32%"
+      alt="Product list page 1 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/ProductList page 2_ Dark Theme.jpeg"
+      width="32%"
+      alt="Product list page 2 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/ProductsList page 1_ Light theme.jpeg" width="32%" alt="Product list page 1 light theme">
-    <img src="screenshots/mobile/ProductsList page 2_ Light theme.jpeg" width="32%" alt="Product list page 2 light theme">
-    <img src="screenshots/mobile/ProductsList page 3_ Light theme.jpeg" width="32%" alt="Product list page 3 light theme">
+    <img
+      src="screenshots/mobile/ProductsList page 1 _ Light theme.jpeg"
+      width="32%"
+      alt="Product list page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/ProductsList page 2 _ Light theme.jpeg"
+      width="32%"
+      alt="Product list page 2 — light theme"
+    >
+    <img
+      src="screenshots/mobile/ProductsList page 3 _ Light theme.jpeg"
+      width="32%"
+      alt="Product list page 3 — light theme"
+    >
   </p>
 </details>
 
@@ -133,15 +229,31 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/LowProducts Page 1_ Dark Theme.jpeg" width="32%" alt="Low-stock products page 1 dark theme">
-    <img src="screenshots/mobile/LowProducts page 2_ Dark Theme.jpeg" width="32%" alt="Low-stock products page 2 dark theme">
+    <img
+      src="screenshots/mobile/LowPrducts Page 1_ Dark Theme.jpeg"
+      width="32%"
+      alt="Low-stock products page 1 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/LowProducts page 2 _Dark Theme.jpeg"
+      width="32%"
+      alt="Low-stock products page 2 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/LowProducts page 1_ Light Theme.jpeg" width="32%" alt="Low-stock products page 1 light theme">
-    <img src="screenshots/mobile/LowProducts page 2_ Light Theme.jpeg" width="32%" alt="Low-stock products page 2 light theme">
+    <img
+      src="screenshots/mobile/LowProducts page 1 _LIght Theme.jpeg"
+      width="32%"
+      alt="Low-stock products page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/LowProducts page 2 _LIght Theme.jpeg"
+      width="32%"
+      alt="Low-stock products page 2 — light theme"
+    >
   </p>
 </details>
 
@@ -154,14 +266,26 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/EditConfigs page 1_ Dark Theme.jpeg" width="32%" alt="Product configuration page 1 dark theme">
-    <img src="screenshots/mobile/EditConfigs page 2_ Dark Theme.jpeg" width="32%" alt="Product configuration page 2 dark theme">
+    <img
+      src="screenshots/mobile/EditConfigs page 1_ Dark Theme.jpeg"
+      width="32%"
+      alt="Product configuration page 1 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/EditConfigs page 2_ Dark Theme.jpeg"
+      width="32%"
+      alt="Product configuration page 2 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/EditProduct page 2_ Light Theme.jpeg" width="32%" alt="Edit product page 2 light theme">
+    <img
+      src="screenshots/mobile/EditProducct page 2 _ Light Theme.jpeg"
+      width="32%"
+      alt="Edit product page 2 — light theme"
+    >
   </p>
 </details>
 
@@ -174,15 +298,31 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/ReportsPage 1_ Dark Theme.jpeg" width="32%" alt="Reports page 1 dark theme">
-    <img src="screenshots/mobile/Report page 2_ Dark Theme.jpeg" width="32%" alt="Report page 2 dark theme">
+    <img
+      src="screenshots/mobile/ReportsPage 1 _ Dark Theme.jpeg"
+      width="32%"
+      alt="Reports page 1 — dark theme"
+    >
+    <img
+      src="screenshots/mobile/Report page 2 _ Dark Theme.jpeg"
+      width="32%"
+      alt="Report page 2 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/Report Page 1_ Light Theme.jpeg" width="32%" alt="Report page 1 light theme">
-    <img src="screenshots/mobile/Report Page 2_ Light Theme.jpeg" width="32%" alt="Report page 2 light theme">
+    <img
+      src="screenshots/mobile/Report Page 1 _LIght Theme.jpeg"
+      width="32%"
+      alt="Report page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/Report Page 2 _LIght Theme.jpeg"
+      width="32%"
+      alt="Report page 2 — light theme"
+    >
   </p>
 </details>
 
@@ -195,14 +335,31 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/ExportedFiles page 1_ Dark Theme.jpeg" width="32%" alt="Exported files dark theme">
+    <img
+      src="screenshots/mobile/ExportedFiles page 1 _Dark Theme.jpeg"
+      width="32%"
+      alt="Exported files page 1 — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/ExportedFiles page 1_ Light Theme.jpeg" width="32%" alt="Exported files page 1 light theme">
-    <img src="screenshots/mobile/ExportedFiles page 2_ Light Theme.jpeg" width="32%" alt="Exported files page 2 light theme">
+    <img
+      src="screenshots/mobile/ExportedFiles page 1 _LIght Theme.jpeg"
+      width="32%"
+      alt="Exported files page 1 — light theme"
+    >
+    <img
+      src="screenshots/mobile/ExportedFiles page 1_LIght Theme.jpeg"
+      width="32%"
+      alt="Exported files page 1 — additional light-theme screen"
+    >
+    <img
+      src="screenshots/mobile/ExportedFiles page 2_LIght Theme.jpeg"
+      width="32%"
+      alt="Exported files page 2 — light theme"
+    >
   </p>
 </details>
 
@@ -215,12 +372,20 @@
   <h4 align="center">Dark theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/NavigationBar Edt_ Dark Theme.jpeg" width="32%" alt="Navigation bar dark theme">
+    <img
+      src="screenshots/mobile/NavigationBar Edt_ Dark Theme.jpeg"
+      width="32%"
+      alt="Navigation bar — dark theme"
+    >
   </p>
 
   <h4 align="center">Light theme</h4>
 
   <p align="center">
-    <img src="screenshots/mobile/NavigationBare page _Light Theme.jpeg" width="32%" alt="Navigation bar light theme">
+    <img
+      src="screenshots/mobile/NavigationBare page _LIght Theme.jpeg"
+      width="32%"
+      alt="Navigation bar — light theme"
+    >
   </p>
 </details>
