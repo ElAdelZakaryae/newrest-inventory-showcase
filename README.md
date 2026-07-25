@@ -389,3 +389,192 @@
     >
   </p>
 </details>
+
+<br>
+
+<h2 align="center">💻 Web Application</h2>
+
+<p align="center">
+  Explore the web administration dashboard used to manage inventories,
+  products, orders, reports, alerts, and users.
+</p>
+
+<!-- SPLASH SCREEN -->
+
+<details open>
+  <summary><strong>🚀 Splash Screen</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/Splash page.png"
+      width="90%"
+      alt="Newrest Inventory web application splash screen"
+    >
+  </p>
+</details>
+
+<!-- LOGIN -->
+
+<details>
+  <summary><strong>🔐 Login</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/Login pag.png"
+      width="90%"
+      alt="Web application login page"
+    >
+  </p>
+</details>
+
+<!-- DASHBOARD -->
+
+<details open>
+  <summary><strong>📊 Dashboard</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/Dashboard page.png"
+      width="90%"
+      alt="Web application dashboard"
+    >
+  </p>
+</details>
+
+<!-- INVENTORY MANAGEMENT -->
+
+<details>
+  <summary><strong>📦 Inventory Management</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/inventoryManagement page.png"
+      width="90%"
+      alt="Web inventory management page"
+    >
+  </p>
+</details>
+
+<!-- PRODUCT MANAGEMENT -->
+
+<details>
+  <summary><strong>🛒 Product Management</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/productManagement page.png"
+      width="48%"
+      alt="Product management page"
+    >
+    <img
+      src="screenshots/web/productManagement page 1.png"
+      width="48%"
+      alt="Product management additional view"
+    >
+  </p>
+</details>
+
+<!-- EDIT PRODUCT -->
+
+<details>
+  <summary><strong>⚙️ Product Configuration</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/editProduct page.png"
+      width="90%"
+      alt="Web product configuration page"
+    >
+  </p>
+</details>
+
+<!-- ALERT MANAGEMENT -->
+
+<details>
+  <summary><strong>🔔 Alert Management</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/AlertManagement page.png"
+      width="90%"
+      alt="Web alert management page"
+    >
+  </p>
+</details>
+
+<!-- REPORTS -->
+
+<details>
+  <summary><strong>📈 Reports and Analytics</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/report page.png"
+      width="90%"
+      alt="Web reports and analytics page"
+    >
+  </p>
+</details>
+
+<!-- NEW ORDER -->
+
+<details>
+  <summary><strong>➕ New Order</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/NewOrder page.png"
+      width="90%"
+      alt="Web new order page"
+    >
+  </p>
+</details>
+
+<!-- ORDER MANAGEMENT -->
+
+<details>
+  <summary><strong>📋 Order Management</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/orderManagement page.png"
+      width="48%"
+      alt="Order management page"
+    >
+    <img
+      src="screenshots/web/orderManagement page 1.png"
+      width="48%"
+      alt="Order management additional view"
+    >
+  </p>
+</details>
+
+<!-- USER MANAGEMENT -->
+
+<details>
+  <summary><strong>👥 User Management</strong></summary>
+  <br>
+
+  <p align="center">
+    <img
+      src="screenshots/web/userManagement page.png"
+      width="48%"
+      alt="User management page"
+    >
+    <img
+      src="screenshots/web/userManagement page 1.png"
+      width="48%"
+      alt="User management additional view"
+    >
+  </p>
+</details>
